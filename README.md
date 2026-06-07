@@ -1,4 +1,4 @@
-# TUGAS PBO — INHERITANCE (PERSON, STUDENT, TEACHER)
+# TUGAS PBO INHERITANCE (PERSON, STUDENT, TEACHER)
 
 Program sederhana tentang pewarisan kelas (inheritance) di Java.  
 Ada kelas `Person` sebagai induk, lalu `Student` dan `Teacher` sebagai turunan.
